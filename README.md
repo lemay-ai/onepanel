@@ -4,7 +4,7 @@ Fairly straightforward, just run through the notebook horoscope+allocations.ipyn
 
 ## Predicting stock performance based on CEO pictures
 ### Step 1:
-Run CEO+stock+scraping.ipynb to get the stock performances we'll be predicting.
+Run CEO+stock+scraping.ipynb to get the stock performances we'll be predicting. You'll want a free Quandl account to be running this, or you'll be capped at 50 queries per day.
 ### Step 2:
 Run scraper/CEO image scraping.ipynb to scrape all the photos of the CEOs.
 ### Step 3:
