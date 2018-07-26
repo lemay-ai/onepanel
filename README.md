@@ -1,7 +1,6 @@
 # onepanel
 ## Portfolio management using horoscopes
-horoscope+allocations.ipynb
-Fairly straightforward, just run through the notebook. If the scraping crashes the notebook, just refresh it and restart whatever block failed. Cell 10 is where the stocks are defined. If you want to swap out for different tickers, there are plenty to choose from.
+Fairly straightforward, just run through the notebook horoscope+allocations.ipynb. If the scraping crashes the notebook, just refresh it and restart whatever block failed. Cell 10 is where the stocks are defined. If you want to swap out for different tickers, there are plenty to choose from.
 
 ## Predicting stock performance based on CEO pictures
 ### Step 1:
